@@ -10,7 +10,7 @@ import Developers from './Pages/Developers';
 import Viewprofile from './Pages/Viewprofile';
 import AddEducation from './Pages/AddEducation';
 import AddExperience from './Pages/AddExperience';
-import Otherpages from './Pages/otherpages';
+import Otherpages from './Pages/Otherpages';
 import Comments from './Pages/Comments';
 
 function App() {
